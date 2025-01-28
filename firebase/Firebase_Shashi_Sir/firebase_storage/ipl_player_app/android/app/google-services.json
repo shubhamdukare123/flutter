@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926222623983",
+    "project_id": "iplplayers-af971",
+    "storage_bucket": "iplplayers-af971.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926222623983:android:c818f54564054770b9a71a",
+        "android_client_info": {
+          "package_name": "com.example.ipl_player_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WzZxyLlMHfLSbrIXcIG3lHjT_NOrd4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
